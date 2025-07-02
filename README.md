@@ -24,7 +24,7 @@ Embed the widget in any HTML page like this:
 <script
   src="https://domain.com/dist/embedScript.js"
   data-container-id="puc-widget"
-  data-title="Trends"
-  data-link="https://trends.com"
+  data-title="title"
+  data-link="https://website.com"
   data-height="220px"
 ></script>
