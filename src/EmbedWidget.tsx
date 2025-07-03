@@ -25,7 +25,6 @@ export const EmbedWidget: React.FC<Props> = ({ title, link, description , shortD
         boxSizing: 'border-box',
       }}
     >
-      {/* Top row: short desc left, title right */}
       <div style={{
         display: 'flex',
         justifyContent: 'space-between',
